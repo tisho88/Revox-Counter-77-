@@ -1,0 +1,379 @@
+*************************************************************
+FileName = Counter_Display_v2.GBR
+AutoAperture = True
+*************************************************************
+Generating : Mechanical 15
+      File : Counter_Display_v2.GM15
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D13
+    D75
+    D78
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : Counter_Display_v2.GM13
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+    D75
+    D76
+    D77
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1, Top Assy
+      File : Counter_Display_v2.GM1
+
+    Adding Layer      : Mechanical 1, Top Assy
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer, Board
+      File : Counter_Display_v2.GKO
+
+    Adding Layer      : Keep-Out Layer, Board
+
+
+Used DCodes :
+    D10
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay, Bot Silk
+      File : Counter_Display_v2.GBO
+
+    Adding Layer      : Bottom Overlay, Bot Silk
+
+
+Used DCodes :
+    D10
+    D12
+    D13
+    D14
+    D15
+    D60
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste, Bot Paste
+      File : Counter_Display_v2.GBP
+
+    Adding Layer      : Bottom Paste, Bot Paste
+
+    Adding Layer      : Bottom Layer, Bottom
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D20
+    D23
+    D73
+    D74
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder, Bot Mask
+      File : Counter_Display_v2.GBS
+
+    Adding Layer      : Bottom Solder, Bot Mask
+
+    Adding Layer      : Bottom Layer, Bottom
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D37
+    D40
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D73
+    D74
+*************************************************************
+
+*************************************************************
+Generating : Top Solder, Top Mask
+      File : Counter_Display_v2.GTS
+
+    Adding Layer      : Top Solder, Top Mask
+
+    Adding Layer      : Top Layer, Top
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D28
+    D29
+    D32
+    D33
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+*************************************************************
+
+*************************************************************
+Generating : Top Paste, Top Paste
+      File : Counter_Display_v2.GTP
+
+    Adding Layer      : Top Paste, Top Paste
+
+    Adding Layer      : Top Layer, Top
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay, Top Silk
+      File : Counter_Display_v2.GTO
+
+    Adding Layer      : Top Overlay, Top Silk
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : Counter_Display_v2.GPT
+
+    Adding Layer      : Top Layer, Top
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D52
+    D53
+    D59
+    D66
+    D67
+    D68
+    D69
+    D70
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : Counter_Display_v2.GPB
+
+    Adding Layer      : Bottom Layer, Bottom
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D20
+    D23
+    D52
+    D53
+    D66
+    D67
+    D68
+    D69
+    D70
+    D73
+    D74
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer, Bottom
+      File : Counter_Display_v2.GBL
+
+    Adding Layer      : Bottom Layer, Bottom
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D15
+    D20
+    D23
+    D52
+    D53
+    D60
+    D61
+    D62
+    D63
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+*************************************************************
+
+*************************************************************
+Generating : GND
+      File : Counter_Display_v2.G2
+
+    Adding Layer      : GND
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D52
+    D53
+    D66
+    D69
+    D70
+    D71
+    D72
+*************************************************************
+
+*************************************************************
+Generating : Vcc
+      File : Counter_Display_v2.G1
+
+    Adding Layer      : Vcc
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D61
+    D68
+    D70
+    D72
+*************************************************************
+
+*************************************************************
+Generating : Top Layer, Top
+      File : Counter_Display_v2.GTL
+
+    Adding Layer      : Top Layer, Top
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D15
+    D16
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D52
+    D53
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+*************************************************************
+

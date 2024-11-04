@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [Counter_Display_v2.PcbDoc]
+   Generated File[Counter_Display_v2.TXT]
+   Generated File[Counter_Display_v2.LDP]
+   Generated File[Counter_Display_v2.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 20:36:33 On 08.10.2024

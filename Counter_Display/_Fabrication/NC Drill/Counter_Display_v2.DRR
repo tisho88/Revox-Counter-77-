@@ -1,0 +1,18 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Counter_Display_v2.PcbDoc   08.10.2024  20:36:32
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer, Top to Bottom Layer, Bottom
+ASCII RoundHoles File : Counter_Display_v2.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      8mil (0.2mm)                                              Round             27        PTH        1.90inch (48.37mm)
+T2      12mil (0.3mm)                                             Round             194       PTH        25.30inch (642.65mm)
+T3      20mil (0.5mm)                                             Round             51        PTH        11.22inch (284.88mm)
+T4      35mil (0.9mm)                                             Round             14        PTH        6.59inch (167.31mm)
+T5      39mil (1mm)                                               Round             4         PTH        0.69inch (17.50mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              290
+
+Total Processing Time (hh:mm:ss) : 00:00:00
